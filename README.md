@@ -53,4 +53,3 @@ Copyright © 2020 [Sammy Nyakabau](https://github.com/Sammy-Nyakabau).<br />
 This project is [MIT](https://github.com/Sammy-Nyakabau/Spotify-Clone/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
