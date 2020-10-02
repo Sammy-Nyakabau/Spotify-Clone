@@ -36,6 +36,7 @@ npm run test
 
 👤 **Sammy Nyakabau**
 
+* Website: www.sammynyakabau.com
 * Github: [@Sammy-Nyakabau](https://github.com/Sammy-Nyakabau)
 * LinkedIn: [@sammy-nyakabau](https://linkedin.com/in/sammy-nyakabau)
 
